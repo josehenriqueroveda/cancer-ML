@@ -13,8 +13,8 @@ Projeto de Data Science e Machine Learning, para desenvolver uma solução na pr
 > - Testes de predição
 
 #### Requisitos
-[Python3](https://www.python.org/)
-[Colaboratory](https://colab.research.google.com/)
+- [Python3](https://www.python.org/)
+- [Colaboratory](https://colab.research.google.com/)
 
 #### Publicação com passo a passo: [Ver no Medium](https://medium.com/@zeh.henrique92/predi%C3%A7%C3%A3o-de-risco-de-c%C3%A2ncer-do-colo-do-%C3%BAtero-com-machine-learning-e4f34d6fbeb3)
 
