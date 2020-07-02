@@ -7,13 +7,13 @@ Projeto de Data Science e Machine Learning, para desenvolver uma solução na pr
 
 ### Passos
 
-> - Limpeza do conjunto de dados *Data cleaning*
-> - Análise e exploração dos dados *Data analysis and exploration*
-> - Construção do modelo de Machine Learning *Development of a Machine Learning Model*
-> - Aplicação da técnica SMOTE ("Synthetic Minority Oversampling Technique") *Apply SMOTE*
-> - Validação de cada um dos modelos de Machine Learning *Validation of models*
-> - Criação do modelo para predição *Creation of the prediction model*
-> - Testes de predição *Testing it*
+> - Limpeza do conjunto de dados | *Data cleaning*
+> - Análise e exploração dos dados | *Data analysis and exploration*
+> - Construção do modelo de Machine Learning | *Development of a Machine Learning Model*
+> - Aplicação da técnica SMOTE ("Synthetic Minority Oversampling Technique") | *Apply SMOTE*
+> - Validação de cada um dos modelos de Machine Learning | *Validation of models*
+> - Criação do modelo para predição | *Creation of the prediction model*
+> - Testes de predição | *Testing it*
 
 #### Requisitos
 - [Python3](https://www.python.org/)
